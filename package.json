@@ -1,0 +1,24 @@
+{
+  "name": "challenge",
+  "version": "1.0.0",
+  "description": "Node.js challenge",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/phos-dev/challenge.git"
+  },
+  "keywords": [
+    "node",
+    "csv",
+    "json"
+  ],
+  "author": "Pedro Henrique",
+  "license": "ISC",
+  "dependencies": {
+    "google-libphonenumber": "^3.2.27"
+  }
+}
